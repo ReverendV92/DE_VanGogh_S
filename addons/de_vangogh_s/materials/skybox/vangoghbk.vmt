@@ -1,4 +1,11 @@
-"UnlitGeneric"
+
+sky
 {
-	"$baseTexture" "skybox/vangoghbk"
+
+	$hdrbasetexture skybox/vangoghbk
+	$basetexture skybox/vangoghbk
+	$ignorez 1
+	$nofog 1
+	$nomip 1
+
 }
