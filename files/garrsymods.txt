@@ -1,0 +1,20 @@
+DE_VanGogh_S
+
+counter-strike,defusal,van-gogh,map,vincent
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1198793943
+
+[h3][b][i]Vincent van Gogh - Post-Impressionism[/i][/b][/h3]
+
+A CS:S defusal map based on Vincent van Gogh's works of art.
+
+This map was made by NIPPER back in late 2004. [url=https://gamebanana.com/maps/9449]You can find it on GameBanana Here[/url] if you want to download it for CS:S. It includes a navigation mesh that can be used for NextBots, as well as a map icon and spawn config file for TTT
+
+Nathaniel Miller (NIPPER) @ Map, Textures, NavMesh
+V92 @ Map Icon, TTT config
+
+[i]"How rich art is; if one can only remember 
+what one has seen, one is never without 
+food for thought or truly lonely, never 
+alone."[/i]
+- Vincent van Gogh to his brother Theo
